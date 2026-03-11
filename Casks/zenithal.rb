@@ -8,6 +8,7 @@ cask "zenithal" do
   homepage "https://www.empiricapps.com/zenithal"
 
   depends_on macos: ">= :ventura"
+  depends_on formula: "lima"
 
   app "Zenithal.app"
 
