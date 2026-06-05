@@ -1,8 +1,8 @@
 cask "tappie" do
-  version "1.0.1"
-  sha256 "29ee642eff052222afa4b05bcd3fd35bec49730aba6ca5a4f920832f674d0373"
+  version "1.0.4"
+  sha256 "3aeff24148e195906c7b3f32010a41853ade645741d824e4403611e3c5d68c62"
 
-  url "https://www.empiricapps.com/api/download/tappie"
+  url "https://www.empiricapps.com/api/download/tappie?version=#{version}"
   name "Tappie"
   desc "Native macOS GUI for managing Homebrew packages without the command line"
   homepage "https://www.empiricapps.com/tappie"
