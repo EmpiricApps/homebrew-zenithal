@@ -1,6 +1,6 @@
 cask "tappie" do
-  version "1.2.0"
-  sha256 "373b6e267147b70501269c51214075dc426e6e881f26a5cb0263df7194f5b2e6"
+  version "1.3.0"
+  sha256 "66d6d2ddf95c8528c9309bd62398fc26375f4923386d758dc5d7f83e68e9208a"
 
   url "https://www.empiricapps.com/api/download/tappie?version=#{version}"
   name "Tappie"
