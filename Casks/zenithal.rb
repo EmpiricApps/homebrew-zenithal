@@ -7,7 +7,7 @@ cask "zenithal" do
   desc "Native macOS app for managing Docker, Compose, and Kubernetes"
   homepage "https://www.empiricapps.com/zenithal"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on formula: "lima"
 
   app "Zenithal.app"

@@ -7,7 +7,7 @@ cask "tappie" do
   desc "Native macOS GUI for managing Homebrew packages without the command line"
   homepage "https://www.empiricapps.com/tappie"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Tappie.app"
 
