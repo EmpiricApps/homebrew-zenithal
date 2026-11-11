@@ -1,6 +1,6 @@
 cask "zenithal" do
-  version "2.3.1"
-  sha256 "c295d2abf44bd7a88cb62f6ed02d38d1524ab0bd53af10fdfa27d92033e8c5ae"
+  version "2.3.2"
+  sha256 "db659dcc94c576ef193d694a5ff1d26d778800fadf3f7acc10fd41dc6fa9cbf2"
 
   url "https://www.empiricapps.com/api/download/zenithal?version=#{version}"
   name "Zenithal"
